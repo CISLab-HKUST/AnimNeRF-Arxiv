@@ -1,0 +1,15 @@
+torch
+torchvision
+pytorch-lightning
+torchmetrics
+test-tube
+dataclasses
+networkx
+trimesh
+PyMCubes
+h5py
+opencv-python
+chumpy
+yacs>=0.1.8
+rtree
+lpips
